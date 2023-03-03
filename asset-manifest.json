@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.778eeed7.css",
+    "main.js": "/static/js/main.ea040478.js",
+    "static/js/787.4b24f717.chunk.js": "/static/js/787.4b24f717.chunk.js",
+    "static/media/moralescarlos.jpeg": "/static/media/moralescarlos.a1a29be1b4d8b2ae996f.jpeg",
+    "static/media/Braintec.png": "/static/media/Braintec.3e688c46f4faeadc355f.png",
+    "static/media/Techedge.png": "/static/media/Techedge.a6c2571532f00af8d014.png",
+    "static/media/Nanobytes.jpg": "/static/media/Nanobytes.05d7bb8b084087158e75.jpg",
+    "index.html": "/index.html",
+    "main.778eeed7.css.map": "/static/css/main.778eeed7.css.map",
+    "main.ea040478.js.map": "/static/js/main.ea040478.js.map",
+    "787.4b24f717.chunk.js.map": "/static/js/787.4b24f717.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.778eeed7.css",
+    "static/js/main.ea040478.js"
+  ]
+}
